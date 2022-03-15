@@ -1,0 +1,24 @@
+{
+  "name": "appresapi",
+  "version": "1.0.0",
+  "description": "aplikasi rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimas1002/apprestapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "dimas pradipto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimas1002/apprestapi/issues"
+  },
+  "homepage": "https://github.com/dimas1002/apprestapi#readme"
+}
