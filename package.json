@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/dimas1002/apprestapi/issues"
   },
-  "homepage": "https://github.com/dimas1002/apprestapi#readme"
+  "homepage": "https://github.com/dimas1002/apprestapi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  }
 }
